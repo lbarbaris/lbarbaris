@@ -2,11 +2,6 @@
 <p align="center">Welcome to my profile</p>
 
 
-
-
-
-![phố-anh-đào](https://github.com/lbarbaris/lbarbaris/assets/144600282/5cda81f4-12eb-4def-bfb3-63e499b45002)
-
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
