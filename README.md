@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center"><img src="https://github.com/lbarbaris/bio/assets/144600282/1aa09844-a4d3-4621-88ed-0a64b35af110" /></p>
+<p align="center">Welcome to my profile</p>
+
+
+
+
 
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
