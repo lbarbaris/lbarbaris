@@ -6,7 +6,7 @@
 ### About me 
 - living in Saint-Petersburg
 - SUAI student
-- Learning backend
+- backend developer
   
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
