@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/lbarbaris/lbarbaris/assets/144600282/5cda81f4-12eb-4def-bfb3-63e499b45002" /></p>
 <p align="center">Welcome to my profile</p>
 
+<hr>
 
 ### About me 
 - living in Saint-Petersburg
