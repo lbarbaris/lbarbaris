@@ -2,6 +2,11 @@
 <p align="center">Welcome to my profile</p>
 
 
+### About me 
+- living in Saint-Petersburg
+- SUAI student
+- Learning backend
+  
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
