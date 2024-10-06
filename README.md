@@ -4,7 +4,7 @@
 <hr>
 
 ### About me 
-- living in Saint-Petersburg
+- Saint-Petersburg
 - SUAI student
 - backend developer on Java and Kotlin
 - Worked in BFT-holding (БФТ-Холдинг) at fullstack Kotlin developer (Kotlin + Kotlin/JS)
