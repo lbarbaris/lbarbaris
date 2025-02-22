@@ -6,9 +6,7 @@
 ### About me 
 - Saint-Petersburg
 - SUAI student
-- backend developer on Java and Kotlin
-- Worked in BFT-holding (БФТ-Холдинг) at Java developer
-- Worked in HiRUS at Java developer
+- backend developer in СБЕР (Java)
   
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
