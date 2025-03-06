@@ -6,7 +6,7 @@
 ### About me 
 - Saint-Petersburg
 - SUAI student
-- backend developer in СБЕР (Java)
+- backend developer and load tester in СБЕР (Java)
   
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
