@@ -5,8 +5,8 @@
 
 ### About me 
 - Saint-Petersburg
-- SUAI student
-- backend developer and load tester in СБЕР (Java)
+- graduated SUAI
+- worked in БФТ-Холдинг and СБЕР (java/kotlin backend)
   
 <!--
 **lbarbaris/lbarbaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
